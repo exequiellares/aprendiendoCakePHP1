@@ -49,10 +49,3 @@ Our primary goal is to provide a structured framework that enables PHP users at 
 [CONTRIBUTING.md](CONTRIBUTING.md) - Quick pointers for contributing to the CakePHP project
 
 [CookBook "Contributing" Section (2.x)](http://book.cakephp.org/2.0/en/contributing.html) [(3.0)](http://book.cakephp.org/3.0/en/contributing.html) - Version-specific details about contributing to the project
-=======
-# aprendiendoCakePHP1
-primeros pasos con cakephp
-
-siguiendo las instrucciones de
-https://www.youtube.com/watch?v=psrplck5bag&index=3&list=PL-9WnOL7eRJYmdqHWCKigyl_tRHjNkrlF
->>>>>>> 1567c6fb2b447fbc14f0b4fb1a5c45f19de11c1d
